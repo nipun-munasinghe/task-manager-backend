@@ -81,5 +81,5 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 - Developer: Nipun Munasinghe
 - LinkedIn: [Nipun Lakmal](https://www.linkedin.com/in/nipun-lakmal-b5b3652bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: nipunlakmal884@gmail.com
+- Email: [nipunlakmal884@gmail.com](mailto:nipunlakmal884@gmail.com)
 - GitHub: [nipun-munasinghe](https://github.com/nipun-munasinghe)
